@@ -9,6 +9,16 @@ For open file, create account, Open EasyEDA and click Open > EasyEDA.
 
 **Your contributions are welcome !**
 
+Requiered components : 
+* RXB6
+* STX88
+* 2 SMA Connector
+* Condensator :
+  * 10uf
+  * 470nF
+* Condensator ceramic : 
+  * 100nF
+
 ## Schematic
 ![Schematic](img/schematic.png)
 
